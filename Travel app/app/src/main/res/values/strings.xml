@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
